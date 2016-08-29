@@ -18,6 +18,7 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
     NSLog(@"<><><><><>");
+    NSLog(@"Branch1");
 }
 
 - (void)didReceiveMemoryWarning {
