@@ -19,6 +19,7 @@
     self.view.backgroundColor = [UIColor redColor];
     NSLog(@"<><><><><>");
     NSLog(@"Branch1");
+    UILabel *label = [[UILabel alloc]init];
 }
 
 - (void)didReceiveMemoryWarning {
