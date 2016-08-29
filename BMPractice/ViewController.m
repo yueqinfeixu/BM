@@ -20,6 +20,7 @@
     NSLog(@"<><><><><>");
     NSLog(@"Branch1");
     UILabel *label = [[UILabel alloc]init];
+    NSLog(@"dsad");
 }
 
 - (void)didReceiveMemoryWarning {
